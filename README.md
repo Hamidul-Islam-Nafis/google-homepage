@@ -1,4 +1,3 @@
 # Google Home page clone
-#### [TheOdinProject](https://www.theodinproject.com/)
 
-[Live Demo](https://tarekvisch.github.io/google-homepage/)
+[Live Demo](https://hamidul-islam-nafis.github.io/google-homepage/)
